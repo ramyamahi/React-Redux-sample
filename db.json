@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "ramya",
+      "email": "ramya@gmail.com",
+      "contact": "9875234567"
+    },
+    {
+      "id": 2,
+      "name": "priya",
+      "email": "priya@gmail.com",
+      "contact": "9875234237"
+    },
+    {
+      "name": "test1",
+      "email": "test@gmail.com",
+      "contact": "786867868",
+      "id": 4
+    },
+    {
+      "name": "Samriddha",
+      "email": "samriddha@gmail.com",
+      "contact": "9845367123",
+      "id": 5
+    }
+  ]
+}
